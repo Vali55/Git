@@ -1,0 +1,49 @@
+"Git first file"
+
+Git config:
+User name and email configaration related command as follows
+
+     git config --global user.name "vinay"
+     git config --global user.email "veenay333@gmail.com"
+
+ git config --global--list
+
+To create a file: Vi, touch, vim
+
+TO create a folder:      mkdir
+
+To intitate git:         git init
+
+After creating file 3 kinds of area
+
+Working Area                Staging Area              Local Repo
+
+different kind of file formats
+abc.java
+abc.html
+abc.sh
+
+
+To move all file from WA to SA :   git add.
+
+To move all java from WA to SA :    git add*.java
+
+To move specific file WA to SA :     git add abc.java
+ 
+To move two file WA to SA      :     git add abc.java abc.sh
+
+
+
+
+To move staging area to Loccal Repo: git commit
+
+Every time you have to give message, there is a standard formats for that messages
+EX:
+
+first time commit message as :  "FIRST COMMIT"
+Each commit can manintain one version number/revision number/commid ID
+Types of VCS:
+Git
+CVS: concurrent version system
+SVN:Sub version
+TFS: Team foundation Server

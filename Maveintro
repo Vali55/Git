@@ -1,0 +1,34 @@
+1. Linux commands
+
+2.Sheel scripts
+
+3.Git & Git hub
+
+4.Maven: Maven is s/w management and comperhension tool, concept of POM 
+         It manges Build, reporting, documentation 
+	 Fundamental unit worK :POM.xm
+	 POM >>Project details
+	     >> COnfiguration details
+	 pom.xml---->>	model version
+	 		group ID
+			artifact id
+	Aspects of maven:
+			Builds
+			Documentation
+			Reporting
+			Dependencies
+			SCMs
+			Releases
+			Distribution
+			Maling list
+	Phases in maven build cycle
+				   Validate
+				   Compile
+				   test
+				   package
+				   integrate test
+				   verify
+				   install
+				   deploy
+Goal: Build and managing the project
+

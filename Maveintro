@@ -1,8 +1,10 @@
+1. Linux commands
 
-			#Introduction of Mavem#
-			----------------------
+2.Sheel scripts
 
-Maven: Maven is s/w management and comperhension tool, concept of POM 
+3.Git & Git hub
+
+4.Maven: Maven is s/w management and comperhension tool, concept of POM 
          It manges Build, reporting, documentation 
 	 Fundamental unit worK :POM.xm
 	 POM >>Project details

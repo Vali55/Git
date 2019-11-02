@@ -3,8 +3,8 @@
 Git config:
 User name and email configaration related command as follows
 
-     git config --global user.name "vinay"
-     git config --global user.email "veenay333@gmail.com"
+     git config --global user.name "Vali"
+     git config --global user.email "ahamedyas4a8@gmail.com"
 
  git config --global--list
 

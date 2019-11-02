@@ -43,7 +43,7 @@ EX:
 first time commit message as :  "FIRST COMMIT"
 Each commit can manintain one version number/revision number/commid ID
 Types of VCS:
-Git
+Git. 
 CVS: concurrent version system
 SVN:Sub version
 TFS: Team foundation Server
